@@ -1,5 +1,5 @@
 # Ex04 Places Around Me
-## Date: 
+## Date: 23.09.2025
 
 ## AIM
 To develop a website to display details about the places around my house.
@@ -25,15 +25,75 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE
+```
+eral.html
+<html>
+    <title>eral</title>
+    <body bgcolor = "grey">
+        <h1 align="center">ERAL</h1>
+       <p>Eral serves as a commercial hub of Thoothukudi district.It is commercially significant town and taluk within the Thoothukudi district of tamil nadu.Situated on the southern Thambirabarani river,it is a vibrant commercial center for a wide range of goods
+        </p>
+    </body>
+</html>
 
+kulathur.html
+<html>
+    <head>
+        <title>KULATHUR</title>
+        
+    </head>
+         <body bgcolor="yellow">
+           <h1 align="center">KULATHUR</h1>
+       <p>
+        Kulathur in Thoothukudi district is a village in Vilathikulam bhadrakali Amman Temple,known for it's kodai vizha festival.It consists of around 1287 families.
+       </p>
+    </body>
+</html>
 
-## OUTPUT
+spicnagar.html
+<html>
+    <head>
+        <title>SPICNAGAR</title>
+    </head>
+    <body bgcolor = "orange">
+        <h1 align="center">SPICNAGAR</h1>
+        <p>Spicnagar is an industrial area and township within the Thoothukudi district of tamilnadu,known for its industrial development,especially by SIPCOT.</p>
+    </body>
+</html>
 
+srivaikuntam.html
+<html>
+    <head>
+    <title>SRIVAIKUNTAM</title>
+    </head>
 
+    <body bgcolor="blue">
+            <h1 align="center">SRIVAIKUNDAM</h1>
+        <p>
+            Srivaikundam is renowed for its superb architecture and outstanding carvings,the kallapiran temple at Srivaikuntam.It is located on the banks of the river Thambirabarani.
+        </p>
+    </body>
+</html>
 
+tharuvaikulam.html
+<html>
+    <head>
+    <title>THARUVAIKULAM</title>
+    </head>
+    <body bgcolor="purple">
+        <h1 align="center">THARUVAIKULAM</h1>
+        <p>Tharuvaikulam is a coastal village in the thoothukudi district of tamil nadu known for its boatyards,marine ecotourism initiatives and agricultural products like tomatoes and red chillies.</p>
+    </body>
+</html>
+```
 
-
-
+# OUTPUT
+![alt text](<Screenshot (14).png>)
+![alt text](<Screenshot (15).png>)
+![alt text](<Screenshot (16).png>)
+![alt text](<Screenshot (17).png>)
+![alt text](<Screenshot (18).png>)
+![alt text](<Screenshot 2025-09-22 182930.png>)
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
