@@ -94,7 +94,7 @@ tharuvaikulam.html
 ![alt text](<Screenshot (33).png>)
 ![alt text](<Screenshot (34).png>)
 ![alt text](<Screenshot (35).png>)
-![alt text](<Screenshot (36gg).png>)
+![alt text](<Screenshot (36).png>)
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
