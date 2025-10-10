@@ -26,6 +26,25 @@ Execute the programs and publish them.
 
 ## CODE
 ```
+map.html
+<html>
+    <head>
+        <title>Thoothukudi</title>
+    </head>
+    <body>
+        <h1 align="center" fontcolor="orange">THOOTHUKUDI</h1>
+        <h2 align="center" fontcolor="yellow">Swarna Priya S(25009452)</h2>
+        <img src="map.png" usemap="#image-map">
+
+        <map name="image-map">
+            <area target="" alt="ERAL" title="ERAL" href="eral.html" coords="1121,772,1223,829" shape="rect">
+            <area target="" alt="THARUVAI" title="THARUVAI" href="tharuvaikulam.html" coords="1435,232,98" shape="circle">
+            <area target="" alt="SPICNAGAR" title="SPICNAGAR" href="spicnagar.html" coords="1338,552,1425,562,1413,616,1347,635,1297,607" shape="poly">
+            <area target="" alt="SRIVAIKUNDAM" title="SRIVAIKUNDAM" href="srivaikuntam.html" coords="868,771,1009,823" shape="rect">
+            <area target="" alt="KULATHUR" title="KULATHUR" href="kulathur.html" coords="1479,9,1441,45,1471,78,1538,71,1541,15" shape="poly">
+        </map>
+    </body>
+</html>
 eral.html
 <html>
     <title>eral</title>
